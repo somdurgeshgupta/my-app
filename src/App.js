@@ -17,7 +17,7 @@ function App() {
        <h1><p>my this is a rule</p><b>this it </b></h1>
        </Greet> */}
      <Greet name="cool" heroName="i am cool">
-       <p>som</p>
+       <p>som this is amazing</p>
        </Greet>
      {/* <Welcome name="bruce" heroName="batman">
        <button>Action</button>
